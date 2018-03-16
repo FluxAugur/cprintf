@@ -32,5 +32,5 @@ function cprintf -a text -d "Printf with colors"
       end
     end
   )
-  printf "$pieces"\n $argv
+  printf "$pieces" $argv
 end
